@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background-color: whitesmoke;
+    background-color: bisque;
 }
 
 .top-bar {
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
+    background-color: bisque;
     z-index: 1;
 }
 
