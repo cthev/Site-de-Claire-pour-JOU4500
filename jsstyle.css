@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background-color: aliceblue;
+    background-color: lightcyan;
 }
 
 .top-bar {
@@ -21,12 +21,12 @@ body {
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
-   color: #131359;
+   color: #0f0f47;
    font-weight: bold;
 }
 
 .top-menu {
-   background-color: #131359;
+   background-color: #2a2a69;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: aliceblue;
+    background-color: lightcyan;
     z-index: 1;
 }
 
