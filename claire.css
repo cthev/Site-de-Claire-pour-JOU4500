@@ -101,5 +101,9 @@ body {
     color: white;
     text-decoration: none;
 }
+
 p { text-align: justify;
+}
+
+ul.a {list-style-type: square  
 }
