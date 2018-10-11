@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Palatino', sans-serif;
     color: #666666;
 }
 
@@ -36,7 +36,7 @@ body {
 .top-menu ul {
     list-style-type: none;
     font-size: 20px; 
-    float: right;
+    float: left;
     margin-right: 20px;
 }
 
@@ -51,11 +51,11 @@ body {
 }
 
 .top-menu li a:hover {
-    background-color: red;
+    background-color: #FF6A33;
 }
 
 .current-page-link {
-    background-color: #db0e0e;
+    background-color: #FF6A33;
 }
 
 .page-content {
@@ -105,5 +105,19 @@ body {
 p { text-align: justify;
 }
 
-ul.a {list-style-type: square  
+ul.a {list-style-type: square;  
+}
+
+ul.b {text-align: justify}
+
+p.titre { font-size: 35px;
+    color: #0f0f47;
+    text-align: center;
+}
+
+h1 { text-align: center;
+    
+}
+h2 {text-decoration: underline;
+    
 }
