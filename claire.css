@@ -109,7 +109,8 @@ p { text-align: justify;
 ul.a {list-style-type: square;  
 }
 
-ul.b {text-align: justify}
+ul.b {text-align: justify;
+}
 
 p.titre { font-size: 35px;
     color: #0f0f47;
