@@ -115,6 +115,10 @@ p.titre { font-size: 35px;
     text-align: center;
 }
 
+p.officiel {border-style: solid;
+
+}
+
 h1 { text-align: center;
     
 }
@@ -129,6 +133,15 @@ img.foret {width: 850px;
 
 figcaption.foret {text-align: center;
     font-size: 15px;
+}
+
+img.orignal {width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption.orignal {text-align: center;
+    font-size: 14px;
 }
 
 img.village { width: 600px;
