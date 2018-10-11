@@ -128,6 +128,9 @@ h2 {text-decoration: underline;
     
 }
 
+p.chaud {text-decoration: line-through;
+    
+}
 img.foret {width: 850px;
     margin-left: auto;
     margin-right: auto;
@@ -137,12 +140,12 @@ figcaption.foret {text-align: center;
     font-size: 15px;
 }
 
-img.orignal {width: 600px;
+img.chien {width: 600px;
     margin-left: auto;
     margin-right: auto;
 }
 
-figcaption.orignal {text-align: center;
+figcaption.chien {text-align: center;
     font-size: 14px;
 }
 
