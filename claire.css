@@ -116,7 +116,8 @@ p.titre { font-size: 35px;
 }
 
 p.officiel {border-style: solid;
-
+        color: #0f0f47;
+        text-align: center;
 }
 
 h1 { text-align: center;
