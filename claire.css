@@ -3,6 +3,7 @@ html, body {
     padding: 0px 0px 0px 0px;
     font-family: 'Palatino', sans-serif;
     color: #666666;
+    font-size: 19px;
 }
 
 body {
@@ -112,7 +113,7 @@ ul.b {text-align: justify}
 
 p.titre { font-size: 35px;
     color: #0f0f47;
-    text-align: center;
+    font-size: 38px;
 }
 
 p.officiel {border-style: solid;
